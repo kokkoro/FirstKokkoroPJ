@@ -5,7 +5,7 @@ VisualStudioCodeから編集
 コンフリクトサンプル
 コンフリクトサンプル
 
-
+hotfixブランチにて修正
 
 
 
